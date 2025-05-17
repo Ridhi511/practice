@@ -1,0 +1,27 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+    border: 2px;
+}
+#weatherApp{
+    text-align: center;
+}
+#weatherApp h3{
+    font-weight: bold;
+}
+#inputdata{
+    padding:8px;
+    width: auto;
+    height: auto;
+    border: 2px black;
+    margin: 1px;
+    margin-bottom: 25px;
+
+}
+#dataToDisplay{
+    padding: 25px;
+    width: 300px;
+    height: auto;
+    border-radius: 25px;
+
+}
